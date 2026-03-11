@@ -1,0 +1,8 @@
+{
+    "name": "NeonSpor",
+    "description": "NeonSpor test",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/apk-sharing/m3u/plugins.json"
+    ]
+}
